@@ -1,0 +1,42 @@
+body{
+    background-image: url(6226861.jpg);
+     background-size: cover;
+
+}
+nav{
+  background-color: rgb(19, 152, 108);
+  padding: 1rem;
+   border: 2px solid #f0f8f6 ;
+    image-orientation: from-image ;
+    box-shadow: 0 0 15px rgba(65, 149, 252, 0.7);
+}
+nav ul{
+list-style-type: none;
+margin: 200px;
+padding: 10px;
+display: flex;
+justify-content: space-around;
+}
+nav ul li{
+  display: inline;
+}
+nav ul li a{
+  color:rgb(29, 29, 105)
+  text-decoration: none ; 
+  padding: 0.5rem 1rem;
+  display: block;
+  font-size: xx-large;
+  font-weight: bolder;
+}
+div{
+  color: aliceblue;
+    font-size: x-large;
+    border: 5px solid #f0f8f6 ;
+    border-radius: 40%;
+    image-orientation: from-image ;
+    box-shadow: 0 0 15px rgba(65, 149, 252, 0.7);
+    padding-left: 220px;
+    padding-right: -200pxpx;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
